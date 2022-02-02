@@ -44,9 +44,9 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 ---------------------------------------------
 
 ## Joined projects
-- Sentimental analysis on Hyundai vehicle models (with Hyundai Motor Company)
+- Sentimental analysis on Hyundai vehicle models (with [Hyundai Motor Company](https://www.hyundai.com/kr/en/main))
     + Analyzed a sentiment of Hyundai vehicle models from comments on web communities.
-- Online action detection in streamed videos (with POSCO ICT Company)
+- Online action detection in streamed videos (with [POSCO ICT](https://www.poscoict.com/servlet/Main?lang=en))
     + Implemented a real-time action recognition system for video surveilence.
 
 ## Education
