@@ -57,7 +57,6 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 - **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2019.09 - present)  
   \- Integrated M.S./Ph.D. in [Convergence IT Engineering](https://cite.postech.ac.kr/)  
   \- Advisor: Prof. [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/)
-  
 - **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2013.03 - 2019.02)  
 	\- B.S. in [Convergence IT Engineering](https://cite.postech.ac.kr/)  
 	\- Advisor: Prof. [Sangwoo Kim](https://icsl.postech.ac.kr/)
