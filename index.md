@@ -29,9 +29,3 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 #### Industry experience
 * LG CNS, Research Intern, Jun 2018 - Aug 2018
 * Microsoft Research Asia (MSRA), Research Intern, Dec 2020 - June 2021
-<!--
-#### Contact
-* CV: [CV](https://github.com/KimManjin/KimManjin/blob/main/ManjinKim_resume%20.pdf)
-* e-mail: mandos@postech.ac.kr
-* google scholar: [https://scholar.google.com/citations?user=kqddtlwAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=kqddtlwAAAAJ&hl=en&oi=ao)
--->
