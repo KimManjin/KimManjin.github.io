@@ -36,10 +36,18 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 
 ## Industry experience
 - **Research Intern**, [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), remote (Dec. 2020 - June. 2021)
+    + Developed a dynamic neural feature transform method, called Relational Self-Attention.
+    + Mentor: [Chunyu Wang](https://www.microsoft.com/en-us/research/people/chnuwa/)
 - **Research Intern**, [LG CNS](https://www.lgcns.com/EN/Home), Korea (Jun. 2018 - Aug. 2018)
-
+    + Developed a video data augmentation system using CycleGAN.
 
 ---------------------------------------------
+
+## Joined projects
+- Sentimental analysis on Hyundai vehicle models (with Hyundai Motor Company)
+    + Analyzed a sentiment of Hyundai vehicle models from comments on web communities.
+- Online action detection in streamed videos (with POSCO ICT Company)
+    + Implemented a real-time action recognition system for video surveilence.
 
 ## Education
 - **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2019.09 - present)  
