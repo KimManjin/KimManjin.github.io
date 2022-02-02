@@ -17,17 +17,6 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 
 ---------------------------------------------
 
-## Education
-- **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2019.09 - present)  
-  \- Integrated M.S./Ph.D. in [Convergence IT Engineering](https://cite.postech.ac.kr/)  
-  \- Advisor: Prof. [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/)
-  
-- **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2013.03 - 2019.02)  
-	\- B.S. in [Convergence IT Engineering](https://cite.postech.ac.kr/)  
-	\- Advisor: Prof. [Sangwoo Kim](https://icsl.postech.ac.kr/)
-
----------------------------------------------
-
 ## Research Interests
 * Video representation learning
 * Motion feature learning
@@ -60,3 +49,13 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 - Online action detection in streamed videos (with [POSCO ICT](https://www.poscoict.com/servlet/Main?lang=en))
     + Implemented a real-time action recognition system for video surveilence.
 
+---------------------------------------------
+
+## Education
+- **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2019.09 - present)  
+  \- Integrated M.S./Ph.D. in [Convergence IT Engineering](https://cite.postech.ac.kr/)  
+  \- Advisor: Prof. [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/)
+  
+- **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2013.03 - 2019.02)  
+	\- B.S. in [Convergence IT Engineering](https://cite.postech.ac.kr/)  
+	\- Advisor: Prof. [Sangwoo Kim](https://icsl.postech.ac.kr/)
