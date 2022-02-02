@@ -17,6 +17,17 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 
 ---------------------------------------------
 
+## Education
+- **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2019.09 - present)  
+  \- Integrated M.S./Ph.D. in [Convergence IT Engineering](https://cite.postech.ac.kr/)  
+  \- Advisor: Prof. [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/)
+  
+- **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2013.03 - 2019.02)  
+	\- B.S. in [Convergence IT Engineering](https://cite.postech.ac.kr/)  
+	\- Advisor: Prof. [Sangwoo Kim](https://icsl.postech.ac.kr/)
+
+---------------------------------------------
+
 ## Research Interests
 * Video representation learning
 * Motion feature learning
@@ -24,7 +35,7 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 
 ---------------------------------------------
 
-## Publication
+## Publications
 - **[Relational self-attention: what's missing in attention for video understanding](https://arxiv.org/abs/2111.01673)** &#91;[code](https://github.com/KimManjin/RSA)&#93;  
   **Manjin Kim\***, Heeseung Kwon\*, Chunyu Wang, Suha Kwak, and Minsu Cho (* equal contribution), _NeurIPS_ 2021.     
 - **[Learning self-similarity in space and time as as generalized motion for video action recognition](https://arxiv.org/abs/2102.07092)** &#91;[code](https://github.com/arunos728/SELFY)&#93;  
@@ -34,7 +45,7 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 
 ---------------------------------------------
 
-## Industry experience
+## Industry experiences
 - **Research Intern**, [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), remote (Dec. 2020 - June. 2021)
     + Developed a dynamic neural feature transform method, called Relational Self-Attention.
     + Mentor: [Chunyu Wang](https://www.microsoft.com/en-us/research/people/chnuwa/)
@@ -49,11 +60,3 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 - Online action detection in streamed videos (with [POSCO ICT](https://www.poscoict.com/servlet/Main?lang=en))
     + Implemented a real-time action recognition system for video surveilence.
 
-## Education
-- **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2019.09 - present)  
-  \- Integrated M.S./Ph.D. in [Convergence IT Engineering](https://cite.postech.ac.kr/)  
-  \- Advisor: Prof. [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/)
-  
-- **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2013.03 - 2019.02)  
-	\- B.S. in [Convergence IT Engineering](https://cite.postech.ac.kr/)  
-	\- Advisor: Prof. [Sangwoo Kim](https://icsl.postech.ac.kr/)
