@@ -26,12 +26,12 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 
 ### Publications
 * **[MotionSqueeze: neural motion feature learning for video understanding](https://arxiv.org/abs/2007.09933)** [[code](https://github.com/arunos728/MotionSqueeze)]
-  Heeseung Kwon, **Manjin Kim**, Suha Kwak, Minsu Cho, in *ECCV 2020* 
+    Heeseung Kwon, **Manjin Kim**, Suha Kwak, Minsu Cho, in *ECCV 2020* 
 
-* [Learning self-similarity in space and time as as generalized motion for video action recognition](https://arxiv.org/abs/2102.07092) [[code](https://github.com/arunos728/SELFY)]
-  Heeseung Kwon\*, **Manjin Kim\***, Suha Kwak, and Minsu Cho, in _ICCV_, 2021. (* equal contribution) 
-* [Relational self-attention: what's missing in attention for video understanding](https://arxiv.org/abs/2111.01673) [[code](https://github.com/KimManjin/RSA)]
-  **Manjin Kim\***, Heeseung Kwon\*, Chunyu Wang, Suha Kwak, and Minsu Cho, in _NeurIPS_, 2021.   (* equal contribution) 
+* **[Learning self-similarity in space and time as as generalized motion for video action recognition](https://arxiv.org/abs/2102.07092)** [[code](https://github.com/arunos728/SELFY)]
+    Heeseung Kwon\*, **Manjin Kim\***, Suha Kwak, and Minsu Cho, in _ICCV_, 2021. (* equal contribution) 
+* **[Relational self-attention: what's missing in attention for video understanding](https://arxiv.org/abs/2111.01673)** [[code](https://github.com/KimManjin/RSA)]
+    **Manjin Kim\***, Heeseung Kwon\*, Chunyu Wang, Suha Kwak, and Minsu Cho, in _NeurIPS_, 2021.   (* equal contribution) 
 
 ---------------------------------------------
 
