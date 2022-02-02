@@ -17,25 +17,34 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 
 ---------------------------------------------
 
-### Research Interests
+## Research Interests
 * Video representation learning
 * Motion feature learning
 * Multi-modal learning
 
 ---------------------------------------------
 
-### Publications
-* **[Relational self-attention: what's missing in attention for video understanding](https://arxiv.org/abs/2111.01673)** [[code](https://github.com/KimManjin/RSA)]
-    **Manjin Kim\***, Heeseung Kwon\*, Chunyu Wang, Suha Kwak, and Minsu Cho, in _NeurIPS_ 2021.   (* equal contribution) 
-
-* **[Learning self-similarity in space and time as as generalized motion for video action recognition](https://arxiv.org/abs/2102.07092)** [[code](https://github.com/arunos728/SELFY)]
+## Publication
+- **[Relational self-attention: what's missing in attention for video understanding](https://arxiv.org/abs/2111.01673)** [[code](https://github.com/KimManjin/RSA)]
+  \- **Manjin Kim\***, Heeseung Kwon\*, Chunyu Wang, Suha Kwak, and Minsu Cho, in _NeurIPS_ 2021.   (* equal contribution) 
+- **[Learning self-similarity in space and time as as generalized motion for video action recognition](https://arxiv.org/abs/2102.07092)** [[code](https://github.com/arunos728/SELFY)]
     Heeseung Kwon\*, **Manjin Kim\***, Suha Kwak, and Minsu Cho, in _ICCV_ 2021. (* equal contribution)
-
-* **[MotionSqueeze: neural motion feature learning for video understanding](https://arxiv.org/abs/2007.09933)** [[code](https://github.com/arunos728/MotionSqueeze)]
+- **[MotionSqueeze: neural motion feature learning for video understanding](https://arxiv.org/abs/2007.09933)** [[code](https://github.com/arunos728/MotionSqueeze)]
     Heeseung Kwon, **Manjin Kim**, Suha Kwak, Minsu Cho, in _ECCV_ 2020.
 
 ---------------------------------------------
 
-### Industry experience
-* **Research Intern**, LG CNS, Korea (Jun. 2018 - Aug. 2018)
-* **Research Intern**, Microsoft Research Asia (MSRA), remote (Dec. 2020 - June. 2021)
+## Industry experience
+- **Research Intern**, LG CNS, Korea (Jun. 2018 - Aug. 2018)
+- **Research Intern**, Microsoft Research Asia (MSRA), remote (Dec. 2020 - June. 2021)
+
+---------------------------------------------
+
+## Education
+- **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2019.09 - present)  
+  \- Integrated M.S./Ph.D. in [Convergence IT Engineering](https://cite.postech.ac.kr/)  
+  \- Advisor: Prof. [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/)
+  
+- **[Pohang University of Science and Technology](http://postech.ac.kr/eng/)**, Pohang, Korea (2013.03 - 2019.02)  
+	\- B.S. in [Convergence IT Engineering](https://cite.postech.ac.kr/)  
+   
