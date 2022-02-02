@@ -44,7 +44,7 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 ---------------------------------------------
 
 ## Collaboration projects
-- **Action recognition using motion-centric video transformer** (with [Google Research](https://research.google/))
+- **Motion feature learning for action recognition** (with [Google Research](https://research.google/))
     + Developed an efficient video transformer that learns motion in videos.
 - **Sentimental analysis on Hyundai vehicle models** (with [Hyundai Motor Company](https://www.hyundai.com/kr/en/main))
     + Analyzed a sentiment of Hyundai vehicle models from comments on web communities.
