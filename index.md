@@ -35,8 +35,9 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 ---------------------------------------------
 
 ## Industry experience
-- **Research Intern**, [LG CNS](https://www.lgcns.com/EN/Home), Korea (Jun. 2018 - Aug. 2018)
 - **Research Intern**, [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), remote (Dec. 2020 - June. 2021)
+- **Research Intern**, [LG CNS](https://www.lgcns.com/EN/Home), Korea (Jun. 2018 - Aug. 2018)
+
 
 ---------------------------------------------
 
