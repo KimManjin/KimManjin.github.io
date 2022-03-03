@@ -25,6 +25,8 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 ---------------------------------------------
 
 ## Publications
+- **Future transformer for long-term action anticipation**  
+  Dayoung Gong, Joonseok Lee, **Manjin Kim**, Seongjong Ha, Minsu Cho, _CVPR_ 2022.
 - **[Relational self-attention: what's missing in attention for video understanding](https://arxiv.org/abs/2111.01673)** &#91;[code](https://github.com/KimManjin/RSA)&#93;  
   **Manjin Kim\***, Heeseung Kwon\*, Chunyu Wang, Suha Kwak, and Minsu Cho (* equal contribution), _NeurIPS_ 2021.     
 - **[Learning self-similarity in space and time as as generalized motion for video action recognition](https://arxiv.org/abs/2102.07092)** &#91;[code](https://github.com/arunos728/SELFY)&#93;  
@@ -46,10 +48,10 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 ## Collaboration projects
 - **Motion-centric video representation learning** (with [Google Research](https://research.google/))
     + Developed an efficient video transformer that learns motion for action recognition.
+- **Online action detection in streamed videos** (with [POSCO ICT](https://www.poscoict.com/servlet/Main?lang=en))
+    + Developed a real-time action recognition system for video surveillance.
 - **Sentimental analysis on Hyundai vehicle models** (with [Hyundai Motor Company](https://www.hyundai.com/kr/en/main))
     + Analyzed a sentiment of Hyundai vehicle models from comments on web communities.
-- **Online action detection in streamed videos** (with [POSCO ICT](https://www.poscoict.com/servlet/Main?lang=en))
-    + Developed a real-time action recognition system for video surveilence.
 
 ---------------------------------------------
 
