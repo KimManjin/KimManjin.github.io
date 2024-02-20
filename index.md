@@ -25,7 +25,9 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 ---------------------------------------------
 
 ## Publications
-- **Future transformer for long-term action anticipation**  
+- **Learning Correlation Structures for Vision Transformer** &#91;  
+  **Manjin Kim**, Paul Hongsuck Seo, Cordelia Schmid, Minsu Cho, _under review_ 2024.
+- **[Future transformer for long-term action anticipation](https://arxiv.org/abs/2205.14022)** &#91;[code]([https://github.com/arunos728/SELFY](https://github.com/gongda0e/FUTR))&#93; 
   Dayoung Gong, Joonseok Lee, **Manjin Kim**, Seongjong Ha, Minsu Cho, _CVPR_ 2022.
 - **[Relational self-attention: what's missing in attention for video understanding](https://arxiv.org/abs/2111.01673)** &#91;[code](https://github.com/KimManjin/RSA)&#93;  
   **Manjin Kim\***, Heeseung Kwon\*, Chunyu Wang, Suha Kwak, and Minsu Cho (* equal contribution), _NeurIPS_ 2021.     
@@ -37,6 +39,9 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 ---------------------------------------------
 
 ## Industry experiences
+- **Student Researcher**, [Google Research]([https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/](https://research.google/)), France (Jul. 2022 - Jan. 2023)
+    + Developed a multimodal long-form video captioning system.
+    + Host: [Paul Hongsuck Seo](https://phseo.github.io/)
 - **Research Intern**, [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), remote (Dec. 2020 - June. 2021)
     + Developed a dynamic neural feature transform method, called Relational Self-Attention.
     + Mentor: [Chunyu Wang](https://www.microsoft.com/en-us/research/people/chnuwa/)
@@ -47,7 +52,7 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 
 ## Collaboration projects
 - **Motion-centric video representation learning** (with [Google Research](https://research.google/))
-    + Developed an efficient video transformer that learns motion for action recognition.
+    + Developed vision transformers, dubbed StructViT, that learn spatio-temporal correlation structures for both image and video understanding.
 - **Online action detection in streamed videos** (with [POSCO ICT](https://www.poscoict.com/servlet/Main?lang=en))
     + Developed a real-time action recognition system for video surveillance.
 - **Sentimental analysis on Hyundai vehicle models** (with [Hyundai Motor Company](https://www.hyundai.com/kr/en/main))
