@@ -25,7 +25,7 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 ---------------------------------------------
 
 ## Publications
-- **Learning Correlation Structures for Vision Transformer** &#91;  
+- **Learning Correlation Structures for Vision Transformer**   
   **Manjin Kim**, Paul Hongsuck Seo, Cordelia Schmid, Minsu Cho, _under review_ 2024.
 - **[Future transformer for long-term action anticipation](https://arxiv.org/abs/2205.14022)** &#91;[code]([https://github.com/arunos728/SELFY](https://github.com/gongda0e/FUTR))&#93; 
   Dayoung Gong, Joonseok Lee, **Manjin Kim**, Seongjong Ha, Minsu Cho, _CVPR_ 2022.
