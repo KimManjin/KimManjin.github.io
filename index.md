@@ -26,9 +26,9 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 
 ## Publications
 - **[Learning correlation structures for vision transformers](https://arxiv.org/abs/2404.03924)** &#91;[project page](https://kimmanjin.github.io/structsa/)&#93; &#91;[code](https://github.com/KimManjin/StructViT)&#93;  
-  **Manjin Kim**, Paul Hongsuck Seo, Cordelia Schmid, Minsu Cho, _CVPR_ 2024.
+  **Manjin Kim**, Paul Hongsuck Seo, Cordelia Schmid, and Minsu Cho, _CVPR_ 2024.
 - **[Future transformer for long-term action anticipation](https://arxiv.org/abs/2205.14022)** &#91;[project page](http://cvlab.postech.ac.kr/research/FUTR/)&#93; &#91;[code](https://github.com/gongda0e/FUTR)&#93;  
-  Dayoung Gong, Joonseok Lee, **Manjin Kim**, Seongjong Ha, Minsu Cho, _CVPR_ 2022.
+  Dayoung Gong, Joonseok Lee, **Manjin Kim**, Seongjong Ha, and Minsu Cho, _CVPR_ 2022.
 - **[Relational self-attention: what's missing in attention for video understanding](https://arxiv.org/abs/2111.01673)** &#91;[project page](http://cvlab.postech.ac.kr/research/RSA/)&#93; &#91;[code](https://github.com/KimManjin/RSA)&#93;  
   **Manjin Kim\***, Heeseung Kwon\*, Chunyu Wang, Suha Kwak, and Minsu Cho (* equal contribution), _NeurIPS_ 2021.     
 - **[Learning self-similarity in space and time as as generalized motion for video action recognition](https://arxiv.org/abs/2102.07092)** &#91;[project page](http://cvlab.postech.ac.kr/research/SELFY/)&#93; &#91;[code](https://github.com/arunos728/SELFY)&#93;  
