@@ -29,7 +29,7 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
   **Manjin Kim**, Heeseung Kwon, Karteek Alahari, and Minsu Cho, _under_ _review_.
 - **Generic Event Boundary Detection via Denoising Diffusion**  
   Jaejun Hwang\*, Dayoung Gong\*, **Manjin Kim**, Minsu Cho (* equal contribution), _under_ _review_.
-- **[Learning correlation structures for vision transformers](https://arxiv.org/abs/2404.03924)** &#91;[project page](https://kimmanjin.github.io/structsa/)&#93; &#91;[code](http://cvlab.postech.ac.kr/research/RSA/)&#93;  
+- **[Learning correlation structures for vision transformers](https://arxiv.org/abs/2404.03924)** &#91;[project page](https://kimmanjin.github.io/structsa/)&#93; &#91;[code](https://kimmanjin.github.io/structsa/)&#93;  
   **Manjin Kim**, Paul Hongsuck Seo\*, Cordelia Schmid, and Minsu Cho\* (* corresponding authors), _CVPR_ 2024.
 - **[Future transformer for long-term action anticipation](https://arxiv.org/abs/2205.14022)** &#91;[project page](http://cvlab.postech.ac.kr/research/FUTR/)&#93; &#91;[code](https://github.com/gongda0e/FUTR)&#93;  
   Dayoung Gong, Joonseok Lee, **Manjin Kim**, Seongjong Ha, and Minsu Cho, _CVPR_ 2022.
