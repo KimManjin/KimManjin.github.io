@@ -27,7 +27,7 @@ I'm Manjin Kim, a Senior Researcher at [Qualcomm AI Research](https://www.qualco
 ## Publications
 - **[Tempered Self-Similarity Alignment for Physically Plausible Video Generation](https://arxiv.org/abs/2605.24962)**  
   **Manjin Kim**, Suha Kwak, and Minsu Cho, _CVPR Workshop on Video Generative Models: Benchmarks and Evaluation_ 2026.
-- **[Exploring High-Order Self-Similarity for Video Understanding](https://arxiv.org/abs/2604.20760)**  
+- **[Exploring Multi-Order Self-Similarity for Motion Understanding](https://arxiv.org/abs/2604.20760)**  
   **Manjin Kim\***, Heeseung Kwon\*, Karteek Alahari, and Minsu Cho (* equal contribution), _NeurIPS_ 2026.
 - **[Generic Event Boundary Detection via Denoising Diffusion](https://arxiv.org/abs/2508.12084)**  
   Jaejun Hwang\*, Dayoung Gong\*, **Manjin Kim**, and Minsu Cho (* equal contribution), _ICCV_ 2025.
